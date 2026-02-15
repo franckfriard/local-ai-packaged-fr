@@ -1,7 +1,5 @@
 # 📦 Package IA Auto-hébergé (Self-hosted AI Starter Kit)
 
-> **Note :** Ceci est une version française du projet original [local-ai-packaged](https://github.com/coleam00/local-ai-packaged) de Cole. Il s'agit d'un environnement complet pour déployer des agents IA en local ou sur serveur.
-
 Ce modèle Docker Compose permet de lancer rapidement un environnement de développement **IA & Low-Code** entièrement fonctionnel et sécurisé. Il combine :
 * **Ollama** pour exécuter vos modèles de langage (LLM) en local.
 * **n8n** pour créer des workflows et des agents autonomes.
